@@ -22,5 +22,6 @@ BDA594 Website
 
 
     
-    I am interested in this book as it tells us how Big data can be useful and its impact on the world.It also points out challenges faced by this widespread use of Big Data.
+    I am interested in this book as it tells us how Big data can be useful and its impact on the world.
+    It also points out challenges faced by this widespread use of Big Data.
     David Collier also provides some possible solutions to the challenges he poses about Big Data.
